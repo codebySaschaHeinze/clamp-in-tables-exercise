@@ -3,7 +3,7 @@ body {
 }
 
 section {
-    background-color: rgba(89, 130, 212, 0.7);
+    background-color: rgba(89, 10, 112, 0.7);
     max-width: 1520px;
     display: flex;
     align-items: center;
@@ -17,7 +17,7 @@ th,
 tr,
 td {
     border: clamp(1px, 0.2vw, 4px) solid white;
-    font-size: clamp(16px, 32px, 48px);
+    font-size: clamp(1rem, 2rem, 4rem);
     text-align: start;
     padding-inline: clamp(8px, 4vw, 16px);
 }
@@ -29,17 +29,17 @@ table {
 }
 
 th {
-    background-color: rgba(89, 130, 212, 0.5);
+    background-color: rgba(89, 10, 112, 0.5);
 }
 
 #bockwurst {
-    background-color: rgba(89, 130, 212, 0.4);
+    background-color: rgba(89, 10, 112, 0.4);
 }
 
 #bratwurst {
-    background-color: rgba(89, 130, 212, 0.3);
+    background-color: rgba(89, 10, 112, 0.3);
 }
 
 #currywurst {
-    background-color: rgba(89, 130, 212, 0.2);
+    background-color: rgba(89, 13, 112, 0.2);
 }
